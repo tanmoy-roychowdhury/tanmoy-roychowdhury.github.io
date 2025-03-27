@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "Articles"
+layout: page
+title: "Publications"
 permalink: /publications/
 ---
 
@@ -8,7 +8,7 @@ For an up-to-date list, see [my google scholar profile](https://scholar.google.c
 
 Published articles and preprints (*Co-first author, #Co-corresponding author):
 
-Selected articles:
+**Selected articles:**
 
 1.	Kelemen M, Danesh J,  Di Angelantonio E, Inouye M, O’Sullivan J, Pennells L, Roychowdhury T, Sweeting MJ, Wood AM, Harrison S, Kim LG. (2024) Evaluating the cost-effectiveness of polygenic risk score-stratified screening for abdominal aortic aneurysm. Nature Communications. PMID: 39277617
 
@@ -25,7 +25,7 @@ Selected articles:
 
 8.	Bae T, Tomasini L, Mariani J, Zhou B, Roychowdhury T, Franjic D, Pletikos M, Pattni R, Chen BJ, Venturini E, Riley-Gillis B, Sestan N, Urban AE, Abyzov A#, Vaccarino FM#. (2018) Different mutational rates and mechanisms in human cells at pre-gastrulation and neurogenesis. Science. PMID: 29217587.
 
-Other articles:
+**Other articles:**
 
 1.	Zhou B, Purmann C, Guo H, Shin GW, Huang Y, Pattni R, Meng  Q, Greer  SU, Roychowdhury T, Wood RN, Ho M, Dohna H,  Abyzov A, Hallmayer J, Wong  WH, Ji H, Urban AE. (2024) Resolving the 22q11.2 deletions using CTLR-Seq reveals chromosomal rearrangement mechanisms and individual variance in breakpoints. PNAS. PMID: 39042694.
 
