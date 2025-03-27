@@ -20,14 +20,6 @@ repository               : "tanmoy-roychowdhury/tanmoy-roychowdhury.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  name             : "Welcome to the Roychowdhury Lab"
-  googlescholar    : "https://scholar.google.co.in/citations?user=zogNrkQAAAAJ&hl=en"
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-
   
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
