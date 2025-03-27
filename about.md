@@ -1,10 +1,12 @@
 
 ---
-layout: page
-title: About the Lab
-permalink: /About Me/
+permalink: /
+title: "Welcome to the Roychowdhury Lab"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-<div style="float: center; padding-right: 15px">
-    <a href="http://tanmoy-roychowdhury.github.io/images/profile_main.jpg"><img src="/images/profile_main.jpg" title="Genomics Driven Precision Health" width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'grandiflora']);"></a>
-</div>
+Genomics Driven Precision Health
+![](/images/profile_main.jpg)
