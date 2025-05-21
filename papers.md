@@ -27,9 +27,9 @@ Published articles and preprints (*Co-first author, #Co-corresponding author):
 
 **Other articles:**
 
-1.	Zhou B, Purmann C, Guo H, Shin GW, Huang Y, Pattni R, Meng  Q, Greer  SU, Roychowdhury T, Wood RN, Ho M, Dohna H,  Abyzov A, Hallmayer J, Wong  WH, Ji H, Urban AE. (2024) Resolving the 22q11.2 deletions using CTLR-Seq reveals chromosomal rearrangement mechanisms and individual variance in breakpoints. PNAS. PMID: 39042694.
+1.	Adkar S, Lynch J, Choi RB, Roychowdhury T, Judy RL, Paruchuri K, Go DC, Bamezai S, Cabot J, Sorondo S, Levin MG, Milewicz DM, Willer CJ, Natarajan P, Pyarajan S, Chang KM, Damrauer S, Tsao P, Skirboll S, Leeper NJ, Klarin D. (2025) Dissecting the genetic architecture of intracranial aneurysms. Circulation: Genomic and Precision Medicine. PMID: 40255156
 
-2.	Adkar S, Lynch J, Choi RB, Roychowdhury T, Judy RL, Paruchuri K, Go DC, Bamezai S, Cabot J, Sorondo S, Levin MG, Milewicz DM, Willer CJ, Natarajan P, Pyarajan S, Chang KM, Damrauer S, Tsao P, Skirboll S, Leeper NJ, Klarin D. (2023) Dissecting the genetic architecture of intracranial aneurysms. MedRxiv. doi.org/10.1101/2023.07.30.23293390
+2.	Zhou B, Purmann C, Guo H, Shin GW, Huang Y, Pattni R, Meng  Q, Greer  SU, Roychowdhury T, Wood RN, Ho M, Dohna H,  Abyzov A, Hallmayer J, Wong  WH, Ji H, Urban AE. (2024) Resolving the 22q11.2 deletions using CTLR-Seq reveals chromosomal rearrangement mechanisms and individual variance in breakpoints. PNAS. PMID: 39042694.
 
 3.	Mandal S, Roychowdhury T, Bhattacharya A. (2021) Pattern of genomic variation in SARS-CoV-2 (COVID-19) suggests restricted nonrandom changes: Analysis using Shewhart control charts. Journal of Biosciences. PMID: 33709963.
 
@@ -37,7 +37,7 @@ Published articles and preprints (*Co-first author, #Co-corresponding author):
 
 5.	Roychowdhury T, Singh VK, Bhattacharya A. (2018) Classification of pathogenic microbes using a minimal set of single nucleotide polymorphisms derived from whole genome sequences. Genomics. PMID: 29432978.
 
-6.	Biswal DK*, Roychowdhury T*, Pandey P, Tandon V. (2018) De novo genome and transcriptome analyses provide insights into the biology of the trematode human parasite Fasciolopsis buski. PLoS One. PMID: 30325945. 
+6.	Biswal DK*, Roychowdhury T*, Pandey P, Tandon V. (2018) De novo genome and transcriptome analyses provide insights into the biology of the trematode human parasite Fasciolopsis buski. PLoS One. PMID: 30325945.
 
 7.	Mandal S, Roychowdhury T, Chirom K, Bhattacharya A, Singh RKB. (2017) Complex multifractal nature in Mycobacterium tuberculosis genome. Scientific Reports. PMID: 28440326.
 
